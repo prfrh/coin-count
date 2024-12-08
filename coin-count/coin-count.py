@@ -2,14 +2,14 @@ import os
 
 #Coin types and the weight per gram
 coin_values = {
-    '1p': 0.01,
-    '2p': 0.02,
-    '5p': 0.05,
-    '10p': 0.10,
-    '20p': 0.20,
-    '50p': 0.50,
-    '£1': 1.00,
-    '£2': 2.00
+    '1p': 3.56,
+    '2p': 7.12,
+    '5p': 2.35,
+    '10p': 6.5,
+    '20p': 5.0,
+    '50p': 8.0,
+    '£1': 8.75,
+    '£2': 12.00
 }
 
 #a dictionary to store volunteers data
